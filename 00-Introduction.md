@@ -232,26 +232,29 @@ Jump to the chapter that addresses your current need:
 
 | Your Situation | Go To |
 |---|---|
-| Need to find problems to explore | Chapter 2: Finding Problems |
-| Looking for specific search queries | Chapter 3–4: Search Engines & Communities |
-| Evaluating AI opportunities | Chapter 5: AI Agent Opportunities |
-| Researching a specific industry | Chapter 6: Industry Playbooks |
-| Validating a problem | Chapter 7: Validation |
-| Preparing customer interviews | Chapter 8: Customer Interviews |
-| Analyzing competitors | Chapter 9: Competitor Research |
-| Need templates | Chapter 10: Templates |
-| Logging ideas | Chapter 11: Startup Idea Database |
+| Need a framework for spotting problems | Chapter 1: Finding Problems |
+| Looking for advanced search queries | Chapter 2: Google Dorks |
+| Mining Reddit for pain | Chapter 3: Reddit Research |
+| Mining Hacker News for pain | Chapter 4: Hacker News |
+| Mining GitHub for developer pain | Chapter 5: GitHub Issues |
+| Analyzing competitors | Chapter 6: Competitor Research |
+| Researching a specific industry | Chapter 7: Industry Playbooks |
+| Evaluating AI opportunities | Chapter 8: AI Agent Opportunities |
+| Preparing customer interviews | Chapter 9: Customer Interviews |
+| Validating a problem | Chapter 10: Validation |
+| Need templates | Chapter 11: Templates |
+| Logging ideas | Chapter 12: Startup Idea Database |
 
 ### Option 3: Sprint Mode (Recommended for Time-Constrained Research)
 
 If you have 5 business days to do intensive research, follow this sprint:
 
 ```
-Day 1: Chapters 1-3 — Mindset + Problem Finding + Search Engines
-Day 2: Chapters 4-5 — Community Research + AI Opportunities
-Day 3: Chapter 6   — Industry Playbook for your target vertical
-Day 4: Chapters 7-9 — Validation + Customer Interviews + Competitor Research
-Day 5: Chapters 10-11 — Templates + Log your top 3 opportunities
+Day 1: Chapters 0-2  — Mindset + Finding Problems + Google Dorks
+Day 2: Chapters 3-5  — Reddit + Hacker News + GitHub Issues
+Day 3: Chapters 6-7  — Competitor Research + Industry Playbook for your target vertical
+Day 4: Chapters 8-9  — AI Agent Opportunities + Customer Interviews
+Day 5: Chapters 10-12 — Validation + Templates + Log your top 3 opportunities
 ```
 
 ### How to Get Maximum Value
@@ -271,37 +274,40 @@ Startup Research Bible
 ├── 00-Introduction              ← You are here
 │   └── Philosophy, mindset, how to use this handbook
 │
-├── 01-Finding Problems          ← Where to look for opportunities
-│   └── Observation, complaints, workarounds, job postings
+├── 01-Finding Problems          ← Framework for spotting real pain
+│   └── Signal categories: complaints, workarounds, job posts, churn
 │
-├── 02-Search Engines            ← Google Dork library + advanced techniques
-│   └── Google, DuckDuckGo, Bing, specialized operators
+├── 02-Google Dorks              ← Universal search query library
+│   └── Search operators across the open web
 │
-├── 03-Communities               ← Reddit, HN, Discord, Slack, forums
-│   └── Platform-by-platform research guides
+├── 03-Reddit Research            ← Community-specific mining
+│   └── Subreddit targeting, recurring complaint extraction
 │
-├── 04-GitHub Issues             ← Developer pain + feature request mining
-│   └── Label filtering, issue analysis, repo intelligence
+├── 04-Hacker News                ← Technical/startup community mining
+│   └── Show HN, Ask HN, Who Is Hiring
 │
-├── 05-AI Agent Playbook         ← AI opportunity identification
-│   └── Automation patterns, workflow analysis, industry coverage
+├── 05-GitHub Issues              ← Developer pain mining
+│   └── Label filtering, feature requests, roadmap signals
 │
-├── 06-Industry Playbooks        ← Vertical-specific research guides
-│   └── Healthcare, legal, finance, logistics, construction...
-│
-├── 07-Validation                ← Pain scoring and de-risking
-│   └── Frameworks, scoring systems, validation stages
-│
-├── 08-Customer Interviews       ← Research conversation design
-│   └── Scripts, templates, analysis techniques
-│
-├── 09-Competitor Research       ← Market landscape analysis
+├── 06-Competitor Research        ← Market landscape analysis
 │   └── Competitor mapping, gap analysis, weakness identification
 │
-├── 10-Templates                 ← Copy-paste research tools
+├── 07-Industry Playbooks         ← Vertical-specific research guides
+│   └── Healthcare, legal, finance, logistics, construction...
+│
+├── 08-AI Agent Playbook          ← AI opportunity identification
+│   └── Automation patterns, workflow analysis, industry coverage
+│
+├── 09-Customer Interviews        ← Research conversation design
+│   └── Scripts, templates, analysis techniques
+│
+├── 10-Validation                 ← Pain scoring and de-risking
+│   └── Frameworks, scoring systems, validation stages
+│
+├── 11-Templates                  ← Copy-paste research tools
 │   └── Scorecards, trackers, databases, planning tools
 │
-└── 11-Startup Idea Database     ← Structured opportunity logging
+└── 12-Startup Idea Database      ← Structured opportunity logging
     └── Idea records with full problem context
 ```
 
@@ -618,6 +624,6 @@ Begin with Chapter 1.
 
 ---
 
-*→ Next: [01-Google-Dorks.md](01-Google-Dorks.md) — Building Your Search Query Library*
+*→ Next: [01-Finding-Problems.md](01-Finding-Problems.md) — The Framework for Spotting Real Pain*
 
-*→ See also: [07-Validation.md](07-Validation.md) — Scoring Frameworks | [08-Customer-Interviews.md](08-Customer-Interviews.md) — Interview Templates | [11-Startup-Idea-Database.md](11-Startup-Idea-Database.md) — Logging Opportunities*
+*→ See also: [10-Validation.md](10-Validation.md) — Scoring Frameworks | [09-Customer-Interviews.md](09-Customer-Interviews.md) — Interview Templates | [12-Startup-Idea-Database.md](12-Startup-Idea-Database.md) — Logging Opportunities*
