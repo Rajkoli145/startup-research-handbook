@@ -1,4 +1,4 @@
-# Startup Research Bible
+# Startup Research Handbook
 
 A living handbook for finding real startup opportunities by researching
 real problems.
