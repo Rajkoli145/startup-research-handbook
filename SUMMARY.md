@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Startup Research Handbook](README.md)
+* [Introduction](00-Introduction.md)
+* [Chapter 1: Finding Problems](01-Finding-Problems.md)
+* [Google Dorks](01-Google-Dorks.md)
+* [Reddit Research](02-Reddit-Research.md)
+* [Hacker News](03-Hacker-News.md)
+* [GitHub Issues](04-GitHub-Issues.md)
+* [AI Agent Opportunities](05-AI-Agent-Playbook.md)
+* [Industry Playbooks](06-Industry-Playbooks.md)
+* [Validation](07-Validation.md)
+* [Customer Interviews](08-Customer-Interviews.md)
+* [Competitor Research](09-Competitor-Research.md)
+* [Templates](10-Templates.md)
+* [Startup Idea Database](11-Startup-Idea-Database.md)
